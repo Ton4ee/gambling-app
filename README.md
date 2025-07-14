@@ -69,4 +69,8 @@ BLACKJACK WIN:
 DEALER WINS:
 <img width="1917" height="904" alt="image" src="https://github.com/user-attachments/assets/21c82b5c-51e1-4b1e-837e-51b3930dc46b" />
 
+🛡️ Disclaimer
+
+This is a demo project made for educational purposes. No real gambling, betting, or transactions are involved.
+
 
