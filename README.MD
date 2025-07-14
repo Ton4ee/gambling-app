@@ -46,3 +46,7 @@ gambling-app/
     ├── heads.png
     └── tails.png
 
+✨ Screenshots
+
+  
+
