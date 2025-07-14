@@ -49,7 +49,7 @@ gambling-app/
 ✨ Screenshots
   LOGIN PAGE:
 <img width="1901" height="904" alt="image" src="https://github.com/user-attachments/assets/dcfe3783-0593-4bbb-bc3d-d0759dd79fb0" />
-    COIN FLIP:
+    COIN FLIP WITH COIN FLIPPING ANIMATION:
 <img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/fc0f8118-c56e-46c2-83ec-007c65a8bf85" />
     Working coin flip with bet history and balance change:
 <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/252805cf-bbd4-4c86-bcea-533ae3bd6ae0" />
