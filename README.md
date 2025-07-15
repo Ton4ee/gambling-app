@@ -73,4 +73,5 @@ DEALER WINS:
 
 This is a demo project made for educational purposes. No real gambling, betting, or transactions are involved.
 
-
+📣Creator
+Antonio Puceski
